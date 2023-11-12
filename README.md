@@ -1,4 +1,5 @@
 <h1> Hello world
 </h1>
-<img src="ornek.jpg" alt="Örnek Resim"/>
+<img src="pyhton.jpg" alt="python logosu"/>
+
 
